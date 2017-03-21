@@ -2735,14 +2735,8 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "Lorem Ipsum \xE9 simplesmente uma simula\xE7\xE3o de texto da ind\xFAstria
-    tipogr\xE1fica e de impressos, e vem sendo utilizado desde o s\xE9culo XVI, quando
-    um impressor desconhecido pegou uma bandeja de tipos e os embaralhou para fazer
-    um livro de modelos de tipos. Lorem Ipsum sobreviveu n\xE3o s\xF3 a cinco s\xE9culos,
-    como tamb\xE9m ao salto para a editora\xE7\xE3o eletr\xF4nica, permanecendo essencialmente
-    inalterado. Se popularizou na d\xE9cada de 60, quando a Letraset lan\xE7ou decalques
-    contendo passagens de Lorem Ipsum, e mais recentemente quando passou a ser integrado
-    a softwares de editora\xE7\xE3o eletr\xF4nica como Aldus PageMaker."
+  m_Text: "Trabalho 4 do m\xF3dulo Desenvolvimento de jogos para Mobile.\nAllan de
+    Oliveira\nTaymon Cant\xE9\n"
 --- !u!222 &2044462865
 CanvasRenderer:
   m_ObjectHideFlags: 0
